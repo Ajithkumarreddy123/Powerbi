@@ -1,14 +1,20 @@
-##Blinkit Dashboard
+Blinkit Dashboard
 This repository contains a dynamic and interactive business intelligence dashboard created in Power BI for Blinkit, a quick-commerce service. The purpose of this dashboard is to provide key insights into business performance, allowing stakeholders to monitor sales, analyze product performance, and track customer satisfaction.
 
 ✨ Features
 The dashboard provides a comprehensive view of Blinkit's operations through several key visualizations and reports, including:
 
+
 Sales Performance: An analysis of sales over time, showing trends, total revenue, and average sales.
+
+
+
 
 Item-Level Insights: Breakdown of performance by individual items.
 
+
 Customer Ratings: A view of customer feedback and ratings, providing insights into service quality.
+
 
 Key Performance Indicators (KPIs): At-a-glance metrics for critical business areas such as average sales.
 
@@ -40,4 +46,3 @@ BLINKIT DASHBOARD.pbix
 For any questions or suggestions regarding the dashboard, please feel free to reach out.
 
 Project Creator: B.Ajith Kumar Reddy
-
