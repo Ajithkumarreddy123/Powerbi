@@ -1,4 +1,4 @@
-Blinkit Dashboard
+##Blinkit Dashboard
 This repository contains a dynamic and interactive business intelligence dashboard created in Power BI for Blinkit, a quick-commerce service. The purpose of this dashboard is to provide key insights into business performance, allowing stakeholders to monitor sales, analyze product performance, and track customer satisfaction.
 
 ✨ Features
